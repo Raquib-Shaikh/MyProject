@@ -1,4 +1,4 @@
 # MyProject
 This is my first Git Repository
 <br>
-Author - SKR
+Author - SKR (Raquib Shaikh)
